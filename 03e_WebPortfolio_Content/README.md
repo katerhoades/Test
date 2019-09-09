@@ -29,7 +29,7 @@ It will be hard to do this as a student, since you are still figuring out what k
 
 For this class, I am looking for:
 
-1. Basic web design (using the code from the [gitHub pages demo](../03a_gitHubPageSetup/demos/gitHubPageTut) would be fine)
+1. Basic web design (using the code from the [gitHub pages demo](https://github.com/katerhoades/GithubSetup/blob/master/README.md) would be fine)
 
 2. Documentation of the projects you made for this class, with short descriptions about the CONCEPTS behind each piece (details below)
 
